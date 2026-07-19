@@ -1,6 +1,6 @@
 # Bipin
 
-B.Tech Biomedical Engineering student at UPES Dehradun.
+> Profile README updated July 2026<!-- cache-bust -->
 
 - PCB Design with KiCad
 - AI/ML with Python
