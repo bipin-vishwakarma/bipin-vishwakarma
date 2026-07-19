@@ -1,120 +1,122 @@
-<a href="https://github.com/bipin-vishwakarma">
-  <img src="assets/banner.png" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&customColorList=12,9,24&text=BIPIN%20VISHWAKARMA&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Biomedical%20Engineer%20%E2%80%A2%20Embedded%20Hardware%20%E2%80%A2%20AI&descSize=20&descAlignY=62&descAlign=50&animation=twinkling" width="100%" />
 
 <div align="center">
-<br />
 
-[![Email](https://img.shields.io/badge/-Bipinvishwakarma145@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bipinvishwakarma145@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bipin-vishwakarma)
-[![Followers](https://img.shields.io/github/followers/bipin-vishwakarma?style=for-the-badge&logo=github&label=Followers&color=236ad3)](https://github.com/bipin-vishwakarma?tab=followers)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+Building+intelligent+health-tech+from+scratch;%F0%9F%A7%AC+PCB+Design+%7C+Electrochemical+Sensing+%7C+IoT;%F0%9F%A4%96+AI+Agents+%7C+FastAPI+%7C+TensorFlow+%7C+MediaPipe;%E2%9A%A1+From+Tesla+Coils+at+14+%E2%86%92+Biosensors+at+22;%F0%9F%8E%93+UPES+Dehradun+%E2%80%A2+IEEE+Design+Head+%E2%80%A2+2027" alt="Typing SVG" /></a>
 
 <br />
 
-*B.Tech Biomedical Engineering — UPES Dehradun '27 &nbsp;|&nbsp; Design Head, IEEE Student Chapter*
-<br />
-*Research Intern @ Neanic Solutions &nbsp;|&nbsp; From Singrauli, MP → Dehradun → Singapore / South Korea*
+[![Email](https://img.shields.io/badge/Email-Bipinvishwakarma145-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bipinvishwakarma145@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bipin--vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/bipin-vishwakarma?style=for-the-badge&logo=github&label=Follow&color=8B5CF6)](https://github.com/bipin-vishwakarma?tab=followers)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=bipin-vishwakarma&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS)](https://github.com/bipin-vishwakarma)
 
-<br />
 </div>
 
----
+<br />
 
-## 🧬 &nbsp;About
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-```yaml
-currently_building:
-  - 🤖 Friday — multi-agent AI desk assistant (FastAPI + Whisper + MediaPipe)
-  - 🔬 Confidential potentiostat for electrochemical biosensing research
+<br />
 
-interests:
-  - Electrochemical Sensing & Biosensors
-  - PCB Design & Analog Front-Ends
-  - AI/ML & Computer Vision
-  - IoT & Wireless Systems
-  - Algorithmic Trading (MQL5)
-  - High-Voltage Electronics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="30" /> &nbsp;About Me
 
-fun_fact: "Built Tesla Coils and Jacob's Ladder at age 14"
-```
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-vishwakarma&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=6" />
 
----
+- 🎓 **B.Tech Biomedical Engineering** @ **UPES Dehradun** `2023–2027`
+- 🎨 **Design Head** — IEEE Student Chapter, UPES
+- 🔬 **Research Intern** — Neanic Solutions *(electrochemical sensing)*
+- 💼 **Ex-Technical Intern** — Carrier Wings LLC *(VoIP/telecom)*
+- 🏥 **GE Healthcare trained** — Cath Lab, PET-CT, MRI @ Bangalore
+- 🤖 **Currently building:** Friday — multi-agent AI desk assistant
+- 🔒 **Currently researching:** Potentiostat for biosensing *(confidential)*
+- 📍 Dehradun ← Singrauli, MP
+- 🎯 **Next →** Singapore / South Korea — biomedical-AI roles
+- ⚡ **Fun fact:** Built Tesla Coils & Jacob's Ladder at age 14
 
-## 🚀 &nbsp;Featured Projects
+<br clear="right" />
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-<h3>🔬 Electrochemical Sensing Platform</h3>
-<p><code>🔒 Neanic Solutions — Confidential</code></p>
-
-Portable electrochemical sensing for microneedle-based detection. Self-designed potentiostat. Active R&D under funded research.
-
-> *No chip names or part numbers disclosed — active IP protection.*
-
-![Status](https://img.shields.io/badge/Active_Research-7C3AED?style=flat-square)
-![Type](https://img.shields.io/badge/Hardware_+_Firmware-0EA5E9?style=flat-square)
+<h3 align="center">🔬 Electrochemical Sensing Platform</h3>
+<p align="center"><code>🔒 Neanic Solutions — Confidential</code></p>
+<p align="center">Portable electrochemical sensing for microneedle-based detection. Self-designed potentiostat. Active R&D.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Active_Research-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hardware_+_Firmware-0EA5E9?style=for-the-badge" />
+</p>
 
 </td>
 <td width="50%">
 
-<h3>🤖 Friday — AI Desk Assistant</h3>
-<p><code>🟢 Active Build</code></p>
-
-Multi-agent AI with voice + vision + web UI. **FastAPI + Jinja2** backend, **Groq Whisper** STT, **Kokoro-82M** TTS, **MediaPipe** presence detection via phone cam.
-
-![Status](https://img.shields.io/badge/Active_Build-EC4899?style=flat-square)
-![Stack](https://img.shields.io/badge/FastAPI_·_Whisper_·_MediaPipe-38BDF8?style=flat-square)
+<h3 align="center">🤖 Friday — AI Desk Assistant</h3>
+<p align="center"><code>🟢 Active Build</code></p>
+<p align="center">Voice + Vision + Web UI. FastAPI, Groq Whisper STT, Kokoro-82M TTS, MediaPipe presence detection.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Active_Build-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI_·_Whisper_·_MediaPipe-38BDF8?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3>🥛 Milk Purity Analyzer — IoT</h3>
-<p><code>✅ Completed</code></p>
-
-IoT-based milk purity testing with **custom electrodes**, real-time adulteration detection, and **mobile app** for live monitoring.
-
-![Status](https://img.shields.io/badge/Completed-22C55E?style=flat-square)
-![Stack](https://img.shields.io/badge/Arduino_·_IoT_·_Sensors-FF6F00?style=flat-square)
+<h3 align="center">🥛 Milk Purity Analyzer — IoT</h3>
+<p align="center"><code>✅ Completed</code></p>
+<p align="center">IoT milk purity testing with custom electrodes, real-time adulteration detection, mobile app monitoring.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Completed-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arduino_·_IoT_·_Sensors-FF6F00?style=for-the-badge" />
+</p>
 
 </td>
 <td width="50%">
 
-<h3>⚡ Wireless Energy Transmission</h3>
-<p><code>✅ Exhibited</code></p>
-
-ZVS-based wireless power via **resonant inductive coupling**. ~10% efficiency gain through coil optimization. Exhibited at SOHST Foundation Day.
-
-![Status](https://img.shields.io/badge/Exhibited-22C55E?style=flat-square)
-![Type](https://img.shields.io/badge/Power_Electronics-DC2626?style=flat-square)
+<h3 align="center">⚡ Wireless Energy Transmission</h3>
+<p align="center"><code>✅ Exhibited</code></p>
+<p align="center">ZVS wireless power via resonant inductive coupling. ~10% efficiency gain. Exhibited at SOHST.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Exhibited-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_Electronics-DC2626?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3>💊 Smart Pill Dispenser PCB</h3>
-<p><code>✅ Fab Ready</code></p>
-
-**ESP32-S3** pill dispenser — end-to-end in **KiCad**. Full schematic → ERC/DRC validation → Gerber export.
-
-![Status](https://img.shields.io/badge/Fab_Ready-38BDF8?style=flat-square)
-![Stack](https://img.shields.io/badge/ESP32--S3_·_KiCad-E7352C?style=flat-square)
+<h3 align="center">💊 Smart Pill Dispenser PCB</h3>
+<p align="center"><code>✅ Fab Ready</code></p>
+<p align="center">ESP32-S3 pill dispenser, end-to-end KiCad — schematic → ERC/DRC → Gerber export.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Fab_Ready-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESP32--S3_·_KiCad-E7352C?style=for-the-badge" />
+</p>
 
 </td>
 <td width="50%">
 
-<h3>📈 Algorithmic Trading Bots</h3>
-<p><code>🔄 Live Testing</code></p>
-
-Custom **MQL5** grid & hedge bots for MetaTrader. Proprietary lot-sizing, automated risk management, historical backtesting.
-
-![Status](https://img.shields.io/badge/Live_Testing-F59E0B?style=flat-square)
-![Stack](https://img.shields.io/badge/MQL5_·_MetaTrader-0F172A?style=flat-square)
+<h3 align="center">📈 Algorithmic Trading Bots</h3>
+<p align="center"><code>🔄 Live Testing</code></p>
+<p align="center">MQL5 grid & hedge bots for MetaTrader. Proprietary lot-sizing, risk management, backtesting.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Live_Testing-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MQL5_·_MetaTrader-0F172A?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
@@ -124,132 +126,123 @@ Custom **MQL5** grid & hedge bots for MetaTrader. Proprietary lot-sizing, automa
 <summary><b>⚡ Origin Story — Tesla Coils at 14 (NTPC Exhibition, 2020)</b></summary>
 <br />
 
-> Before biomedical engineering, it started with **Tesla Coils**. At 14, I designed SSTC & SGTC Tesla Coils, Jacob's Ladder, Water Bridge, and Lichtenberg wood-burning art — all exhibited at **NTPC Vindhyachal**. That's where the love for electronics began.
+> Before biomedical engineering, it started with **Tesla Coils**. At 14, I designed SSTC & SGTC Tesla Coils, Jacob's Ladder, Water Bridge, and Lichtenberg wood-burning art — exhibited at **NTPC Vindhyachal**. That's where electronics became an obsession.
 
 </details>
 
----
+<br />
 
-## 🧰 &nbsp;Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,arduino,html,css,js,git,github,vscode,matlab&perline=11&theme=dark" />
+### Hardware & Embedded
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/PCB_Design-0F172A?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="40" />
+
+### AI & Software
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow&theme=dark" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/MediaPipe-00A6D6?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" height="40" />
+
+### Web & Other
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/MQL5-0F172A?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" height="40" />
+
+### Biomedical Systems
+<img src="https://img.shields.io/badge/MRI-0EA5E9?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/CT_·_X--Ray-38BDF8?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/Ultrasound-7C3AED?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/ECG_·_Patient_Monitoring-EC4899?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/Electrochemical_Sensing-22C55E?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/High_Voltage-DC2626?style=for-the-badge" height="40" />
 
 </div>
 
 <br />
 
-<div align="center">
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-0F172A?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A6D6?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-0F172A?style=for-the-badge)
-![High Voltage](https://img.shields.io/badge/High_Voltage_Electronics-DC2626?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-F59E0B?style=for-the-badge)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br />
 
-<details>
-<summary><b>🏥 Biomedical Systems Experience</b></summary>
-<br />
-
-<div align="center">
-
-![MRI](https://img.shields.io/badge/MRI_Systems-0EA5E9?style=for-the-badge)
-![CT](https://img.shields.io/badge/CT_&_X--Ray-38BDF8?style=for-the-badge)
-![Ultrasound](https://img.shields.io/badge/Ultrasound-7C3AED?style=for-the-badge)
-![ECG](https://img.shields.io/badge/ECG_&_Patient_Monitoring-EC4899?style=for-the-badge)
-![Electrochemical](https://img.shields.io/badge/Electrochemical_Sensing-22C55E?style=for-the-badge)
-![Cath Lab](https://img.shields.io/badge/Cath_Lab-F59E0B?style=for-the-badge)
-![PET CT](https://img.shields.io/badge/PET--CT-DC2626?style=for-the-badge)
-
-</div>
-
-</details>
-
----
-
-## 📅 &nbsp;Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Done.png" width="30" /> &nbsp;Journey
 
 ```
 2020  ⚡ High-voltage electronics — Tesla Coils, Jacob's Ladder @ NTPC Exhibition
        │
-2023  🎓 B.Tech Biomedical Engineering @ UPES Dehradun
-       ├─ 🏆 Won Circuit Craft — IEEE UPES
-       └─ 🔧 Self-taught KiCad & PCB design
+2023  🎓 B.Tech Biomedical Engineering @ UPES · 🏆 Won Circuit Craft — IEEE
        │
-2024  🎨 Design Head — IEEE Student Chapter
-       └─ 🏆 3rd in Poster Mania — Avgaahan, University of Delhi
+2024  🎨 Design Head, IEEE · 🏆 3rd Poster Mania — Avgaahan, DU
        │
-2025  💼 Technical Intern — Carrier Wings LLC (VoIP / Telecom)
-       ├─ 🥛 Built IoT Milk Purity Analyzer
-       ├─ ⚡ Wireless Energy Transmission — SOHST Foundation Day
-       └─ 🏥 GE Healthcare — Cath Lab, PET-CT, MRI training @ Bangalore
+2025  💼 Intern @ Carrier Wings (VoIP) · 🥛 Milk Purity Analyzer
+       ├─ ⚡ Wireless Energy Transmission · 🏥 GE Healthcare, Bangalore
        │
-2026  🔬 Research Intern — Neanic Solutions (Electrochemical Sensing)
-       └─ 🤖 Building Friday — multi-agent AI desk assistant
+2026  🔬 Research Intern @ Neanic Solutions · 🤖 Building Friday AI
        │
-2027  🎯 Next → Singapore / South Korea — Biomedical-AI roles
+2027  🎯 → Singapore / South Korea — Biomedical-AI roles
 ```
 
 <details>
-<summary><b>📜 Certifications & Training</b></summary>
+<summary><b>📜 Certifications</b></summary>
 <br />
 
 | Year | Certification | Issuer |
 |:----:|:---|:---|
-| 2025 | **Hands-on: Cath Lab, PET-CT, MRI** | GE Healthcare, Bangalore |
-| 2025 | **Product Development Workshop** | IEEE × Einstein Box |
-| 2024 | **CT & X-Ray Modality** | UPES |
-| 2024 | **Anaesthesia, Ventilator, Monitor & Ultrasound** | UPES |
+| 2025 | **Cath Lab, PET-CT, MRI** — Hands-on training | GE Healthcare, Bangalore |
+| 2025 | **Product Development** Workshop | IEEE × Einstein Box |
+| 2024 | **CT & X-Ray Modality** Workshop | UPES |
+| 2024 | **Anaesthesia, Ventilator, Monitor & Ultrasound** Workshop | UPES |
 
 </details>
 
----
+<br />
 
-## 📊 &nbsp;GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&text_color=C9D1D9&ring_color=7C3AED" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9&ring_color=A855F7" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=EC4899&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=0D1117&color=C9D1D9&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+
+<br /><br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bipin-vishwakarma&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br />
 
-<!-- GitHub Trophies -->
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bipin-vishwakarma&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
 <br />
+
+<div align="center">
 
 **Started with Tesla Coils at 14. Now building biosensors and AI agents.**
 <br />
 *Prototype first. Validate hard. Ship real systems.*
 
+</div>
+
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7C3AED,100:EC4899" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,9,24" width="100%" />
