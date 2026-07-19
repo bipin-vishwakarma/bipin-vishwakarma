@@ -1,3 +1,4 @@
+<!-- profile-cache-bust: 2026-07-19 -->
 <!-- Profile README for github.com/bipin-vishwakarma -->
 
 <div align="center">
@@ -180,3 +181,4 @@ Practical health-tech systems that move from idea → prototype → real hardwar
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:EC4899,50:7C3AED,100:0EA5E9" alt="Footer wave" />
+
