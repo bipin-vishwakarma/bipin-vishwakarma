@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&customColorList=12,9,24&text=BIPIN%20VISHWAKARMA&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Biomedical%20Engineer%20%E2%80%A2%20Embedded%20Hardware%20%E2%80%A2%20AI&descSize=20&descAlignY=62&descAlign=50&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:001a1a,60:003333,100:004d4d&text=BIPIN%20VISHWAKARMA&fontSize=52&fontColor=22d3ee&fontAlignY=38&desc=BIOMEDICAL%20ENGINEER%20%E2%80%A2%20EMBEDDED%20HARDWARE%20%E2%80%A2%20AI&descSize=18&descAlignY=58&descAlign=50&fontAlign=50&descColor=67e8f9&animation=twinkling&stroke=22d3ee&strokeWidth=1" width="100%" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+Building+intelligent+health-tech+from+scratch;%F0%9F%A7%AC+PCB+Design+%7C+Electrochemical+Sensing+%7C+IoT;%F0%9F%A4%96+AI+Agents+%7C+FastAPI+%7C+TensorFlow+%7C+MediaPipe;%E2%9A%A1+From+Tesla+Coils+at+14+%E2%86%92+Biosensors+at+22;%F0%9F%8E%93+UPES+Dehradun+%E2%80%A2+IEEE+Design+Head+%E2%80%A2+2027" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+Building+intelligent+health-tech+from+scratch;%F0%9F%A7%AC+PCB+Design+%7C+Electrochemical+Sensing+%7C+IoT;%F0%9F%A4%96+AI+Agents+%7C+FastAPI+%7C+TensorFlow+%7C+MediaPipe;%E2%9A%A1+From+Tesla+Coils+at+14+%E2%86%92+Biosensors+at+22;%F0%9F%8E%93+UPES+Dehradun+%E2%80%A2+IEEE+Design+Head+%E2%80%A2+2027" alt="Typing SVG" /></a>
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-Bipinvishwakarma145-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bipinvishwakarma145@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Bipinvishwakarma145-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:Bipinvishwakarma145@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bipin--vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bipin--vishwakarma-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/bipin-vishwakarma?style=for-the-badge&logo=github&label=Follow&color=8B5CF6)](https://github.com/bipin-vishwakarma?tab=followers)
+[![Followers](https://img.shields.io/github/followers/bipin-vishwakarma?style=for-the-badge&logo=github&label=Follow&color=003333&logoColor=22d3ee)](https://github.com/bipin-vishwakarma?tab=followers)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=bipin-vishwakarma&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS)](https://github.com/bipin-vishwakarma)
+[![Views](https://komarev.com/ghpvc/?username=bipin-vishwakarma&style=for-the-badge&color=003333&label=PROFILE+VIEWS)](https://github.com/bipin-vishwakarma)
 
 </div>
 
@@ -24,14 +24,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="30" /> &nbsp;About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-vishwakarma&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=6" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-vishwakarma&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=C9D1D9&langs_count=6" />
 
 - 🎓 **B.Tech Biomedical Engineering** @ **UPES Dehradun** `2023–2027`
 - 🎨 **Design Head** — IEEE Student Chapter, UPES
 - 🔬 **Research Intern** — Neanic Solutions *(electrochemical sensing)*
 - 💼 **Ex-Technical Intern** — Carrier Wings LLC *(VoIP/telecom)*
 - 🏥 **GE Healthcare trained** — Cath Lab, PET-CT, MRI @ Bangalore
-- 🤖 **Currently building:** Friday — multi-agent AI desk assistant
+- 🤖 **Currently building:** `Friday` — multi-agent AI desk assistant
 - 🔒 **Currently researching:** Potentiostat for biosensing *(confidential)*
 - 📍 Dehradun ← Singrauli, MP
 - 🎯 **Next →** Singapore / South Korea — biomedical-AI roles
@@ -55,8 +55,8 @@
 <p align="center"><code>🔒 Neanic Solutions — Confidential</code></p>
 <p align="center">Portable electrochemical sensing for microneedle-based detection. Self-designed potentiostat. Active R&D.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Active_Research-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hardware_+_Firmware-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Active_Research-003333?style=for-the-badge&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Hardware_+_Firmware-004d4d?style=for-the-badge" />
 </p>
 
 </td>
@@ -215,17 +215,17 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9&ring_color=A855F7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=06b6d4&text_color=C9D1D9&ring_color=22d3ee" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=0D1117&color=C9D1D9&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=0D1117&color=C9D1D9&line=22d3ee&point=06b6d4&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 
 <br /><br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bipin-vishwakarma&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=bipin-vishwakarma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies" />
 
 </div>
 
@@ -245,4 +245,4 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,9,24" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:004d4d,50:003333,100:000000" width="100%" />
