@@ -217,7 +217,7 @@
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=06b6d4&text_color=C9D1D9&ring_color=22d3ee" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img height="180" src="https://streak-stats.demolab.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0D1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 <br /><br />
 
