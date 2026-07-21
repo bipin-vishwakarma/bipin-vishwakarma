@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" fill="none" role="img" aria-label="Bipin Vishwakarma — Biomedical Engineer, Embedded Hardware, AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#04070a"/>
+      <stop offset="0.5" stop-color="#06171b"/>
+      <stop offset="1" stop-color="#0a2b30"/>
+    </linearGradient>
+    <linearGradient id="cyanText" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6fbff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e7490" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .twk { animation: tw 3s ease-in-out infinite; }
+      .twk2 { animation: tw 4.2s ease-in-out infinite; }
+      .twk3 { animation: tw 2.4s ease-in-out infinite; }
+      @keyframes tw { 0%,100%{opacity:.15} 50%{opacity:.9} }
+      .ecg { stroke-dasharray: 1600; stroke-dashoffset: 1600; animation: draw 4s ease-in-out infinite; }
+      @keyframes draw { 0%{stroke-dashoffset:1600} 55%{stroke-dashoffset:0} 100%{stroke-dashoffset:0} }
+      .helix path { animation: sway 6s ease-in-out infinite; transform-origin: center; }
+      @keyframes sway { 0%,100%{opacity:.55} 50%{opacity:1} }
+      .rise { animation: rise 5s ease-in-out infinite; }
+      @keyframes rise { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="340" rx="16" fill="url(#bg)"/>
+  <ellipse cx="600" cy="180" rx="620" ry="220" fill="url(#glow)"/>
+
+  <!-- faint circuit grid -->
+  <g stroke="#22d3ee" stroke-opacity="0.06" stroke-width="1">
+    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200 M0 300 H1200"/>
+    <path d="M120 0 V340 M240 0 V340 M360 0 V340 M480 0 V340 M600 0 V340 M720 0 V340 M840 0 V340 M960 0 V340 M1080 0 V340"/>
+  </g>
+
+  <!-- circuit nodes / traces (left) -->
+  <g stroke="#22d3ee" stroke-opacity="0.28" stroke-width="1.5" fill="none">
+    <path d="M70 250 h60 v-40 h40"/>
+    <path d="M70 90 h40 v40 h50"/>
+    <circle cx="70" cy="250" r="4" fill="#22d3ee" class="twk"/>
+    <circle cx="170" cy="210" r="4" fill="#22d3ee" class="twk2"/>
+    <circle cx="70" cy="90" r="4" fill="#22d3ee" class="twk3"/>
+  </g>
+
+  <!-- DNA helix motif (right) -->
+  <g class="helix" transform="translate(1030,170)" stroke="#22d3ee" stroke-width="2.5" fill="none" opacity="0.85">
+    <path d="M-40 -80 C 40 -50, -40 -10, 40 20 C -40 50, 40 90, -40 120" stroke="#67e8f9"/>
+    <path d="M40 -80 C -40 -50, 40 -10, -40 20 C 40 50, -40 90, 40 120" stroke="#22d3ee"/>
+    <g stroke="#2dd4bf" stroke-opacity="0.7">
+      <line x1="-30" y1="-62" x2="30" y2="-62"/>
+      <line x1="18" y1="-30" x2="-18" y2="-30"/>
+      <line x1="-28" y1="4" x2="28" y2="4"/>
+      <line x1="20" y1="40" x2="-20" y2="40"/>
+      <line x1="-26" y1="76" x2="26" y2="76"/>
+      <line x1="14" y1="104" x2="-14" y2="104"/>
+    </g>
+  </g>
+
+  <!-- ECG / biosignal waveform -->
+  <path class="ecg" filter="url(#soft)" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+        d="M40 300 H320 l18 0 22 -46 20 92 24 -128 20 128 26 -46 H700 l16 0 20 -34 18 60 20 -84 18 84 22 -26 H1160"/>
+
+  <!-- title -->
+  <g class="rise">
+    <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="6" fill="url(#cyanText)">BIPIN VISHWAKARMA</text>
+    <text x="600" y="192" text-anchor="middle" font-family="'Consolas','Courier New',monospace" font-size="18" font-weight="600" letter-spacing="7" fill="#5eead4">BIOMEDICAL  ·  EMBEDDED HARDWARE  ·  AI</text>
+  </g>
+
+  <!-- accent underline -->
+  <rect x="470" y="210" width="260" height="3" rx="2" fill="#22d3ee" class="twk"/>
+</svg>
