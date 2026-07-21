@@ -24,20 +24,25 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="26" /> &nbsp;About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-vishwakarma&layout=donut&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=64748b&langs_count=8&card_width=320" alt="Most used languages" />
-
 Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI** overlap — I design the electrode, route the PCB, flash the firmware, and wrap it in an intelligent interface.
+
+<table>
+<tr><td>
 
 - 🎓 &nbsp;**B.Tech Biomedical Engineering** — UPES Dehradun `2023–2027`
 - 🎨 &nbsp;**Design Head** — IEEE Student Chapter, UPES
 - 🔬 &nbsp;**Research Intern** — Neanic Solutions *(electrochemical sensing)*
 - 🏥 &nbsp;**GE Healthcare trained** — Cath Lab · PET-CT · MRI *(Bangalore)*
+
+</td><td>
+
 - 🤖 &nbsp;**Now building** — `Friday`, a multi-agent AI desk assistant
 - 🔒 &nbsp;**Now researching** — a potentiostat for biosensing *(confidential)*
 - 🎯 &nbsp;**Next** — biomedical-AI roles in Singapore / South Korea
 - ⚡ &nbsp;**Fun fact** — built Tesla Coils & a Jacob's Ladder at 14
 
-<br clear="right" />
+</td></tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
