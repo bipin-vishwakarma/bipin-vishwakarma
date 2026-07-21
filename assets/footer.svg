@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a2b30"/>
+      <stop offset="1" stop-color="#04070a"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .fp { stroke-dasharray: 45 1555; stroke-dashoffset: 1600; animation: fdraw 3.4s linear infinite; }
+      @keyframes fdraw { 0%{stroke-dashoffset:1600} 100%{stroke-dashoffset:0} }
+    </style>
+  </defs>
+  <rect width="1200" height="140" rx="16" fill="url(#fbg)"/>
+  <path stroke="url(#fline)" stroke-opacity="0.4" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"
+        d="M40 44 H360 l16 0 20 -24 18 44 20 -60 18 60 22 -20 H760 l16 0 18 -18 16 32 18 -44 16 44 20 -14 H1160"/>
+  <path class="fp" stroke="#a5f3fc" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"
+        d="M40 44 H360 l16 0 20 -24 18 44 20 -60 18 60 22 -20 H760 l16 0 18 -18 16 32 18 -44 16 44 20 -14 H1160"/>
+  <text x="600" y="98" text-anchor="middle" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="1" fill="#e6fbff">Prototype first. Validate hard. Ship real systems.</text>
+  <text x="600" y="122" text-anchor="middle" font-family="'Consolas','Courier New',monospace" font-size="12" letter-spacing="3" fill="#5eead4">THANKS FOR SCROLLING  ·  LET'S BUILD SOMETHING</text>
+</svg>
