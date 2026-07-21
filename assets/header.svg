@@ -27,8 +27,8 @@
       .twk2 { animation: tw 4.2s ease-in-out infinite; }
       .twk3 { animation: tw 2.4s ease-in-out infinite; }
       @keyframes tw { 0%,100%{opacity:.15} 50%{opacity:.9} }
-      .ecg { stroke-dasharray: 1600; stroke-dashoffset: 1600; animation: draw 4s ease-in-out infinite; }
-      @keyframes draw { 0%{stroke-dashoffset:1600} 55%{stroke-dashoffset:0} 100%{stroke-dashoffset:0} }
+      .pulse { stroke-dasharray: 55 1545; stroke-dashoffset: 1600; animation: draw 3.4s linear infinite; }
+      @keyframes draw { 0%{stroke-dashoffset:1600} 100%{stroke-dashoffset:0} }
       .helix path { animation: sway 6s ease-in-out infinite; transform-origin: center; }
       @keyframes sway { 0%,100%{opacity:.55} 50%{opacity:1} }
       .rise { animation: rise 5s ease-in-out infinite; }
@@ -69,8 +69,10 @@
     </g>
   </g>
 
-  <!-- ECG / biosignal waveform -->
-  <path class="ecg" filter="url(#soft)" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+  <!-- ECG / biosignal waveform (always-visible base + traveling pulse) -->
+  <path stroke="url(#line)" stroke-opacity="0.5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"
+        d="M40 300 H320 l18 0 22 -46 20 92 24 -128 20 128 26 -46 H700 l16 0 20 -34 18 60 20 -84 18 84 22 -26 H1160"/>
+  <path class="pulse" filter="url(#soft)" stroke="#a5f3fc" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"
         d="M40 300 H320 l18 0 22 -46 20 92 24 -128 20 128 26 -46 H700 l16 0 20 -34 18 60 20 -84 18 84 22 -26 H1160"/>
 
   <!-- title -->
