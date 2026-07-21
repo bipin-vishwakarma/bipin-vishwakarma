@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" fill="none" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .dot { animation: run 5s linear infinite; }
+      @keyframes run { 0%{transform:translateX(120px);opacity:0} 8%{opacity:1} 92%{opacity:1} 100%{transform:translateX(1080px);opacity:0} }
+      .b { animation: bl 2.4s ease-in-out infinite; }
+      @keyframes bl { 0%,100%{opacity:.25} 50%{opacity:1} }
+    </style>
+  </defs>
+  <line x1="60" y1="12" x2="1140" y2="12" stroke="url(#d)" stroke-width="2"/>
+  <g fill="#22d3ee">
+    <circle cx="360" cy="12" r="3" class="b"/>
+    <circle cx="600" cy="12" r="3.5" class="b"/>
+    <circle cx="840" cy="12" r="3" class="b"/>
+  </g>
+  <circle class="dot" cx="0" cy="12" r="4" fill="#a5f3fc"/>
+</svg>
