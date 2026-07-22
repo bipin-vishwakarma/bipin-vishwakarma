@@ -226,6 +226,13 @@ ZVS wireless power via resonant inductive coupling — ~10% efficiency gain. Exh
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=ffffff&color=0e7490&line=0891b2&point=0e7490&area=true&area_color=a5f3fc&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="96%" />
 </picture>
 
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/output/snake.svg" alt="Contribution snake eating my commits" width="96%" />
+</picture>
+
 </div>
 
 <br />
