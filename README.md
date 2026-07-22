@@ -89,25 +89,11 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Done.png" width="26" /> &nbsp;The Path So Far
 
-```text
- 2020 ─⚡─ Age 14: Tesla Coils (SSTC/SGTC), Jacob's Ladder & Lichtenberg art
-      │      → exhibited at NTPC Vindhyachal. Electronics became the plan.
-      │
- 2023 ─🎓─ B.Tech Biomedical Engineering @ UPES Dehradun begins
-      │   🏆 Winner — Circuit Craft (IEEE Student Chapter)
-      │
- 2024 ─🎨─ Design Head, IEEE UPES  ·  🥉 Poster Mania — Avgaahan, DU
-      │
- 2025 ─💼─ Technical Intern @ Carrierwing LLC (VoIP onboarding)
-      │   🥛 Milk Purity Analyzer (IoT)  ·  ⚡ ZVS Wireless Power (SOHST)
-      │   🏥 GE Healthcare — Cath Lab · PET-CT · MRI (Bangalore)
-      │
- 2026 ─🔬─ Research Intern @ Neanic Solutions (electrochemical sensing)
-      │   🤖 Building Friday AI  ·  💊 Smart Pill Dispenser PCB
-      │
- now  ─🚀─ Biosensors, embedded AI & algorithmic systems
-           → building toward global R&D.
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/timeline.svg" width="92%" alt="Timeline — 2020 Tesla Coils → 2023 UPES → 2024 IEEE Design Head → 2025 Carrierwing/GE Healthcare → 2026 Neanic Solutions & Friday AI → now biosensors & embedded AI" />
+
+</div>
 
 <details>
 <summary><b>📜 &nbsp;Certifications & Workshops</b></summary>
