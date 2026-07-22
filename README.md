@@ -137,32 +137,7 @@ ZVS wireless power via resonant inductive coupling — ~10% efficiency gain. Exh
 
 <div align="center">
 
-**Hardware & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-0d1117?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-
-**AI & Software**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Biomedical Systems**
-
-![MRI](https://img.shields.io/badge/MRI-0EA5E9?style=for-the-badge)
-![CT · X-Ray](https://img.shields.io/badge/CT_·_X--Ray-38BDF8?style=for-the-badge)
-![Ultrasound](https://img.shields.io/badge/Ultrasound-7C3AED?style=for-the-badge)
-![ECG](https://img.shields.io/badge/ECG_·_Patient_Monitoring-EC4899?style=for-the-badge)
-![Electrochemical](https://img.shields.io/badge/Electrochemical_Sensing-22C55E?style=for-the-badge)
-![High Voltage](https://img.shields.io/badge/High_Voltage-DC2626?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/techstack.svg" width="90%" alt="Tech stack — Hardware & Embedded · AI & Software · Biomedical Systems" />
 
 </div>
 
