@@ -38,7 +38,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 - 🤖 &nbsp;**Now building** — `Friday`, a multi-agent AI desk assistant
 - 🔒 &nbsp;**Now researching** — a potentiostat for biosensing *(confidential)*
-- 🎯 &nbsp;**Next** — biomedical-AI roles in Singapore / South Korea
+- 🎯 &nbsp;**Next** — biomedical-AI R&D · building toward global opportunities
 - ⚡ &nbsp;**Fun fact** — built Tesla Coils & a Jacob's Ladder at 14
 
 </td></tr>
@@ -63,12 +63,12 @@ Portable, microneedle-based electrochemical detection with a **self-designed pot
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 &nbsp;Friday — AI Desk Assistant
+#### 🤖 &nbsp;[Friday — AI Desk Assistant](https://github.com/bipin-vishwakarma/Friday)
 `🟢 Active build`
 
-Voice + vision + web UI. **FastAPI**, Groq Whisper STT, Kokoro-82M TTS, and **MediaPipe** presence detection.
+JARVIS-style voice + vision + web UI. **FastAPI**, Whisper STT, Piper TTS, and **MediaPipe** presence & face recognition.
 
-![Active Build](https://img.shields.io/badge/Active_Build-0d1117?style=flat-square&labelColor=0d1117&color=ec4899)
+[![Repo](https://img.shields.io/badge/→_Code-0d1117?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/bipin-vishwakarma/Friday)
 ![FastAPI · MediaPipe](https://img.shields.io/badge/FastAPI_·_Whisper_·_MediaPipe-0d1117?style=flat-square)
 
 </td>
@@ -76,12 +76,12 @@ Voice + vision + web UI. **FastAPI**, Groq Whisper STT, Kokoro-82M TTS, and **Me
 <tr>
 <td width="50%" valign="top">
 
-#### 💊 &nbsp;Smart Pill Dispenser
+#### 💊 &nbsp;[Smart Pill Dispenser](https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser)
 `✅ Fab-ready PCB`
 
-ESP32-S3 automated dispenser — end-to-end **KiCad**: schematic → ERC/DRC → Gerber export.
+ESP32-S3 automated dispenser — end-to-end **KiCad** across 7 revisions: schematic → ERC/DRC → Gerbers.
 
-![Fab Ready](https://img.shields.io/badge/Fab_Ready-0d1117?style=flat-square&labelColor=0d1117&color=38bdf8)
+[![Repo](https://img.shields.io/badge/→_Code-0d1117?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser)
 ![ESP32-S3 · KiCad](https://img.shields.io/badge/ESP32--S3_·_KiCad-0d1117?style=flat-square)
 
 </td>
@@ -111,13 +111,13 @@ ZVS wireless power via resonant inductive coupling — ~10% efficiency gain. Exh
 </td>
 <td width="50%" valign="top">
 
-#### 📈 &nbsp;Algorithmic Trading Bots
+#### 📈 &nbsp;[RvFx — Algorithmic Trading Bot](https://github.com/bipin-vishwakarma/rvfx-trading-bot)
 `🔄 Live testing`
 
-**MQL5** grid & hedge bots for MetaTrader — custom lot-sizing, risk management, backtesting.
+**MQL5** grid/hedge EA for MetaTrader 5 — custom cycle manager, live dashboard, risk management + backtests.
 
-![Live Testing](https://img.shields.io/badge/Live_Testing-0d1117?style=flat-square&labelColor=0d1117&color=f59e0b)
-![MQL5 · MetaTrader](https://img.shields.io/badge/MQL5_·_MetaTrader-0d1117?style=flat-square)
+[![Repo](https://img.shields.io/badge/→_Code-0d1117?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/bipin-vishwakarma/rvfx-trading-bot)
+![MQL5 · MetaTrader](https://img.shields.io/badge/MQL5_·_MetaTrader_5-0d1117?style=flat-square)
 
 </td>
 </tr>
@@ -130,20 +130,6 @@ ZVS wireless power via resonant inductive coupling — ~10% efficiency gain. Exh
 > Before biomedical engineering, there were **Tesla Coils**. At 14 I designed SSTC & SGTC coils, a Jacob's Ladder, a water bridge, and Lichtenberg wood-burning art — exhibited at **NTPC Vindhyachal**. That's where electronics stopped being a hobby and became the plan.
 
 </details>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20" /> &nbsp;Live Demos — poke at real things
-
-<div align="center">
-
-[![AI in India](https://img.shields.io/badge/🇮🇳_AI_in_India-0d1117?style=for-the-badge&color=0e7490)](https://bipin-vishwakarma.github.io/AI-in-india/)
-&nbsp;
-[![SwiftFX](https://img.shields.io/badge/⚡_SwiftFX_3D-0d1117?style=for-the-badge&color=0e7490)](https://bipin-vishwakarma.github.io/swiftfx/)
-&nbsp;
-[![Solar System](https://img.shields.io/badge/☀️_CSS_Solar_System-0d1117?style=for-the-badge&color=0e7490)](https://bipin-vishwakarma.github.io/Solar-System-Explorer-in-CSS-only/)
-&nbsp;
-[![Waves](https://img.shields.io/badge/🌊_CSS_Waves-0d1117?style=for-the-badge&color=0e7490)](https://bipin-vishwakarma.github.io/Website-waves/)
-
-</div>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
@@ -185,13 +171,23 @@ ZVS wireless power via resonant inductive coupling — ~10% efficiency gain. Exh
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Done.png" width="26" /> &nbsp;The Path So Far
 
 ```text
-2020  ⚡  High-voltage electronics — Tesla Coils & Jacob's Ladder @ NTPC Exhibition
-2023  🎓  B.Tech Biomedical Engineering @ UPES  ·  🏆 Won Circuit Craft (IEEE)
-2024  🎨  Design Head, IEEE  ·  🏆 3rd — Poster Mania, Avgaahan (DU)
-2025  💼  Intern @ Carrier Wings (VoIP)  ·  🥛 Milk Purity Analyzer  ·  ⚡ Wireless Power
-      🏥  GE Healthcare hands-on training, Bangalore
-2026  🔬  Research Intern @ Neanic Solutions  ·  🤖 Building Friday AI
-2027  🎯  → Singapore / South Korea — biomedical-AI
+ 2020 ─⚡─ Age 14: Tesla Coils (SSTC/SGTC), Jacob's Ladder & Lichtenberg art
+      │      → exhibited at NTPC Vindhyachal. Electronics became the plan.
+      │
+ 2023 ─🎓─ B.Tech Biomedical Engineering @ UPES Dehradun begins
+      │   🏆 Winner — Circuit Craft (IEEE Student Chapter)
+      │
+ 2024 ─🎨─ Design Head, IEEE UPES  ·  🥉 Poster Mania — Avgaahan, DU
+      │
+ 2025 ─💼─ Technical Intern @ Carrierwing LLC (VoIP onboarding)
+      │   🥛 Milk Purity Analyzer (IoT)  ·  ⚡ ZVS Wireless Power (SOHST)
+      │   🏥 GE Healthcare — Cath Lab · PET-CT · MRI (Bangalore)
+      │
+ 2026 ─🔬─ Research Intern @ Neanic Solutions (electrochemical sensing)
+      │   🤖 Building Friday AI  ·  💊 Smart Pill Dispenser PCB
+      │
+ now  ─🚀─ Biosensors, embedded AI & algorithmic systems
+           → building toward global R&D.
 ```
 
 <details>
