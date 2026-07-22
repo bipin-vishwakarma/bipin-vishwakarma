@@ -1,21 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" width="500" height="150" fill="none" role="img" aria-label="Smart Pill Dispenser">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 200" width="460" height="200" fill="none" role="img" aria-label="Smart Pill Dispenser">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="150" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0b1418"/><stop offset="1" stop-color="#0a1013"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="460" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05090c"/><stop offset="1" stop-color="#0a2228"/>
     </linearGradient>
+    <radialGradient id="gl" cx="0.22" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.18"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="498.5" height="148.5" rx="14" fill="url(#bg)" stroke="#1e3238" stroke-width="1.5"/>
-  <!-- left accent bar -->
-  <rect x="0.75" y="0.75" width="5" height="148.5" rx="2.5" fill="#38bdf8"/>
-  <!-- icon -->
-  <g transform="translate(66,75) scale(1.15)"><g transform="rotate(-35)">
+  <rect x="1" y="1" width="458" height="198" rx="16" fill="url(#bg)" stroke="#38bdf8" stroke-opacity="0.32" stroke-width="1.5"/>
+  <ellipse cx="105" cy="100" rx="150" ry="110" fill="url(#gl)"/>
+  <g stroke="#38bdf8" stroke-opacity="0.05" stroke-width="1"><path d="M0 66 H460 M0 133 H460"/></g>
+  <path d="M18 40 V22 a4 4 0 0 1 4 -4 H40" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.75"/>
+  <path d="M442 160 V178 a4 4 0 0 1 -4 4 H420" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.75"/>
+  <g transform="translate(78,100)"><g transform="rotate(-35)">
       <rect x="-28" y="-12" width="56" height="24" rx="12" fill="none" stroke="#38bdf8" stroke-width="3"/>
       <path d="M-16 -12 a12 12 0 0 0 0 24 h-12 a12 12 0 0 1 0 -24 z" fill="#38bdf8" fill-opacity="0.30"/>
       <line x1="0" y1="-12" x2="0" y2="12" stroke="#38bdf8" stroke-width="3"/>
     </g></g>
-  <!-- text -->
-  <text x="120" y="64" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-weight="700" font-size="26" fill="#eef7f9">Smart Pill Dispenser</text>
-  <text x="121" y="90" font-family="'Consolas','Courier New',monospace" font-weight="500" font-size="14" letter-spacing="0.5" fill="#7fa6ae">ESP32-S3  ·  KiCad</text>
-  <circle cx="127" cy="112" r="3.5" fill="#38bdf8"/>
-  <text x="139" y="116" font-family="'Consolas','Courier New',monospace" font-weight="600" font-size="12" letter-spacing="1.5" fill="#38bdf8">FAB-READY PCB</text>
+  <text x="150" y="86" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-weight="800" font-size="23" fill="#e9fdff">Smart Pill Dispenser</text>
+  <text x="150" y="114" font-family="'Consolas','Courier New',monospace" font-weight="600" font-size="13.5" letter-spacing="1" fill="#8bd6e0">ESP32-S3  ·  KiCad</text>
+  <rect x="150" y="130" width="138" height="24" rx="12" fill="#38bdf8" fill-opacity="0.16" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+  <circle cx="164" cy="142" r="3.5" fill="#38bdf8"/>
+  <text x="176" y="146" font-family="'Consolas','Courier New',monospace" font-weight="700" font-size="12" letter-spacing="1.5" fill="#38bdf8">FAB-READY PCB</text>
 </svg>
