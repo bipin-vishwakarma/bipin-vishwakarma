@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 200" width="460" height="200" fill="none" role="img" aria-label="Milk Purity Analyzer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="460" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05090c"/><stop offset="1" stop-color="#0a2228"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="0.22" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.20"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="198" rx="16" fill="url(#bg)" stroke="#22c55e" stroke-opacity="0.35" stroke-width="1.5"/>
+  <ellipse cx="105" cy="100" rx="150" ry="110" fill="url(#gl)"/>
+  <g stroke="#22c55e" stroke-opacity="0.06" stroke-width="1"><path d="M0 66 H460 M0 133 H460"/></g>
+  <!-- corner accent -->
+  <path d="M18 40 V22 a4 4 0 0 1 4 -4 H40" stroke="#22c55e" stroke-width="2" stroke-opacity="0.8"/>
+  <path d="M442 160 V178 a4 4 0 0 1 -4 4 H420" stroke="#22c55e" stroke-width="2" stroke-opacity="0.8"/>
+  <!-- icon -->
+  <g transform="translate(78,100)"><path d="M0 -28 C 18 -4, 18 16, 0 16 C -18 16, -18 -4, 0 -28 Z" fill="#22c55e" fill-opacity="0.18" stroke="#22c55e" stroke-width="3"/>
+      <path d="M-7 2 a7 9 0 0 0 7 8" fill="none" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round"/></g>
+  <!-- text -->
+  <text x="150" y="86" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-weight="800" font-size="23" fill="#e9fdff">Milk Purity Analyzer</text>
+  <text x="150" y="114" font-family="'Consolas','Courier New',monospace" font-weight="600" font-size="13.5" letter-spacing="1" fill="#8bd6e0">IoT  ·  Custom Electrodes</text>
+  <rect x="150" y="130" width="106" height="24" rx="12" fill="#22c55e" fill-opacity="0.16" stroke="#22c55e" stroke-opacity="0.55" stroke-width="1"/>
+  <circle cx="164" cy="142" r="3.5" fill="#22c55e"/>
+  <text x="176" y="146" font-family="'Consolas','Courier New',monospace" font-weight="700" font-size="12" letter-spacing="1.5" fill="#22c55e">COMPLETED</text>
+</svg>
