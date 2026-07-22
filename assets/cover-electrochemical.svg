@@ -1,20 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" width="500" height="150" fill="none" role="img" aria-label="Electrochemical Sensing">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 200" width="460" height="200" fill="none" role="img" aria-label="Electrochemical Sensing">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="150" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0b1418"/><stop offset="1" stop-color="#0a1013"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="460" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05090c"/><stop offset="1" stop-color="#0a2228"/>
     </linearGradient>
+    <radialGradient id="gl" cx="0.22" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.18"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="498.5" height="148.5" rx="14" fill="url(#bg)" stroke="#1e3238" stroke-width="1.5"/>
-  <!-- left accent bar -->
-  <rect x="0.75" y="0.75" width="5" height="148.5" rx="2.5" fill="#2dd4bf"/>
-  <!-- icon -->
-  <g transform="translate(66,75) scale(1.15)"><path d="M-9 -24 h18 M-7 -24 v12 l-13 28 a5 5 0 0 0 4.6 7 h30.8 a5 5 0 0 0 4.6 -7 l-13 -28 v-12"
+  <rect x="1" y="1" width="458" height="198" rx="16" fill="url(#bg)" stroke="#2dd4bf" stroke-opacity="0.32" stroke-width="1.5"/>
+  <ellipse cx="105" cy="100" rx="150" ry="110" fill="url(#gl)"/>
+  <g stroke="#2dd4bf" stroke-opacity="0.05" stroke-width="1"><path d="M0 66 H460 M0 133 H460"/></g>
+  <path d="M18 40 V22 a4 4 0 0 1 4 -4 H40" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.75"/>
+  <path d="M442 160 V178 a4 4 0 0 1 -4 4 H420" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.75"/>
+  <g transform="translate(78,100)"><path d="M-9 -24 h18 M-7 -24 v12 l-13 28 a5 5 0 0 0 4.6 7 h30.8 a5 5 0 0 0 4.6 -7 l-13 -28 v-12"
         fill="#2dd4bf" fill-opacity="0.14" stroke="#2dd4bf" stroke-width="3" stroke-linejoin="round"/>
       <path d="M-16 6 h32" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.6"/>
       <path d="M-11 14 l6 0 3 -8 4 14 3 -6 h6" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <!-- text -->
-  <text x="120" y="64" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-weight="700" font-size="26" fill="#eef7f9">Electrochemical Sensing</text>
-  <text x="121" y="90" font-family="'Consolas','Courier New',monospace" font-weight="500" font-size="14" letter-spacing="0.5" fill="#7fa6ae">Potentiostat  ·  Biosensing</text>
-  <circle cx="127" cy="112" r="3.5" fill="#2dd4bf"/>
-  <text x="139" y="116" font-family="'Consolas','Courier New',monospace" font-weight="600" font-size="12" letter-spacing="1.5" fill="#2dd4bf">CONFIDENTIAL R&amp;D</text>
+  <text x="150" y="86" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-weight="800" font-size="23" fill="#e9fdff">Electrochemical Sensing</text>
+  <text x="150" y="114" font-family="'Consolas','Courier New',monospace" font-weight="600" font-size="13.5" letter-spacing="1" fill="#8bd6e0">Potentiostat  ·  Biosensing</text>
+  <rect x="150" y="130" width="162" height="24" rx="12" fill="#2dd4bf" fill-opacity="0.16" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="1"/>
+  <circle cx="164" cy="142" r="3.5" fill="#2dd4bf"/>
+  <text x="176" y="146" font-family="'Consolas','Courier New',monospace" font-weight="700" font-size="12" letter-spacing="1.5" fill="#2dd4bf">CONFIDENTIAL R&amp;D</text>
 </svg>
