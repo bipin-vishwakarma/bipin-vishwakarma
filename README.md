@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="26" /> &nbsp;About Me
+## 🧬 &nbsp;About Me
 
 Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI** overlap — I design the electrode, route the PCB, flash the firmware, and wrap it in an intelligent interface.
 
@@ -32,7 +32,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" /> &nbsp;Featured Work
+## 🚀 &nbsp;Featured Work
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" /> &nbsp;Toolbox
+## 🛠️ &nbsp;Toolbox
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Done.png" width="26" /> &nbsp;The Path So Far
+## ⏳ &nbsp;The Path So Far
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" /> &nbsp;By the Numbers
+## 📊 &nbsp;By the Numbers
 
 <div align="center">
 
