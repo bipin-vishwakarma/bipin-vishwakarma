@@ -48,22 +48,23 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" /> &nbsp;Featured Work
 
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="100%" alt="Friday — AI Desk Assistant" /></a></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-electrochemical.svg" width="100%" alt="Electrochemical Sensing Platform — confidential R&D at Neanic Solutions" /></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-pill.svg" width="100%" alt="Smart Pill Dispenser" /></a></td>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="100%" alt="RvFx Algorithmic Trading Bot" /></a></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-milk.svg" width="100%" alt="Milk Purity Analyzer" /></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-wireless.svg" width="100%" alt="Wireless Energy Transmission" /></td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="82%" alt="Friday — AI Desk Assistant" /></a>
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-electrochemical.svg" width="82%" alt="Electrochemical Sensing Platform — confidential R&D at Neanic Solutions" />
-
-<a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-pill.svg" width="82%" alt="Smart Pill Dispenser" /></a>
-
-<a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="82%" alt="RvFx Algorithmic Trading Bot" /></a>
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-milk.svg" width="82%" alt="Milk Purity Analyzer" />
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-wireless.svg" width="82%" alt="Wireless Energy Transmission" />
-
 <sub>🔗 <b>Open the code</b> — <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser">Smart Pill Dispenser</a> · <a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot">RvFx Trading Bot</a></sub>
-
 </div>
 
 <details>
