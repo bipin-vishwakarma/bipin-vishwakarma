@@ -61,6 +61,18 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/techstack.svg" width="90%" alt="Tech stack — Hardware & Embedded · AI & Software · Biomedical Systems" />
 
+<details>
+<summary><b>🧩 &nbsp;How I actually use this stack</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br />
+
+**🔧 Hardware** — I take boards end-to-end: schematic → PCB layout → ERC / DRC → Gerber export → SMD assembly *(KiCad · ESP32-S3 · Arduino)*. Enclosures modeled in SolidWorks and 3D-printed.
+
+**🤖 AI & Software** — Python-first: **FastAPI** services, real-time vision *(MediaPipe · OpenCV)*, ML with **TensorFlow**, quick UIs in **Streamlit**, and multi-agent / LLM workflows.
+
+**🏥 Biomedical** — hands-on with clinical imaging *(MRI · CT · PET-CT · ultrasound)* and patient monitoring; my research focus is **electrochemical biosensing & potentiostat design**.
+
+</details>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
@@ -73,18 +85,13 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 </div>
 
-<details>
-<summary><b>📜 &nbsp;Certifications & Workshops</b></summary>
-<br />
+### 📜 &nbsp;Certifications & Workshops
 
-| Year | Credential | Issuer |
-|:----:|:---|:---|
-| 2025 | **Cath Lab · PET-CT · MRI** — hands-on training | GE Healthcare, Bangalore |
-| 2025 | **Product Development** workshop | IEEE × Einstein Box |
-| 2024 | **CT & X-Ray Modality** workshop | UPES |
-| 2024 | **Anaesthesia, Ventilator, Monitor & Ultrasound** | UPES |
+<div align="center">
 
-</details>
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/certs.svg" width="92%" alt="Certifications — GE Healthcare (Cath Lab · PET-CT · MRI hands-on training), IEEE × Einstein Box Product Development, UPES CT/X-Ray & Anaesthesia/Ultrasound workshops" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
