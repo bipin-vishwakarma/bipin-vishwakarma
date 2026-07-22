@@ -120,6 +120,26 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 </div>
 
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+**Open to biomedical-AI R&D roles, research collaborations & hardware builds.**
+<br />
+Got an idea where health, hardware, and AI meet? Let's talk.
+
+<br />
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:Bipinvishwakarma145@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8)
+&nbsp;
+![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=22d3ee)
+
+</div>
+
 <br />
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/footer.svg" width="100%" alt="Prototype first. Validate hard. Ship real systems." />
