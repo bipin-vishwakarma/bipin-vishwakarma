@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## 🧬 &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-about.svg" width="30" /> &nbsp;About Me
 
 Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI** overlap — I design the electrode, route the PCB, flash the firmware, and wrap it in an intelligent interface.
 
@@ -32,7 +32,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## 🚀 &nbsp;Featured Work
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-featured.svg" width="30" /> &nbsp;Featured Work
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ &nbsp;Toolbox
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-toolbox.svg" width="30" /> &nbsp;Toolbox
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## ⏳ &nbsp;The Path So Far
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-path.svg" width="30" /> &nbsp;The Path So Far
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 </div>
 
-### 📜 &nbsp;Certifications & Workshops
+### <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-certs.svg" width="24" /> &nbsp;Certifications & Workshops
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## 📊 &nbsp;By the Numbers
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-numbers.svg" width="30" /> &nbsp;By the Numbers
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## 🤝 &nbsp;Let's Connect
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-connect.svg" width="30" /> &nbsp;Let's Connect
 
 <div align="center">
 
