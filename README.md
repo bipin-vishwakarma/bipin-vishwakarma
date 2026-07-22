@@ -50,78 +50,22 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🔬 &nbsp;Electrochemical Sensing Platform
-`🔒 Neanic Solutions — Confidential`
-
-Portable, microneedle-based electrochemical detection with a **self-designed potentiostat**. Active hardware + firmware R&D.
-
-![Active R&D](https://img.shields.io/badge/Active_R%26D-003333?style=flat-square&labelColor=003333&color=22d3ee)
-![Hardware + Firmware](https://img.shields.io/badge/Hardware_+_Firmware-0d1117?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 &nbsp;[Friday — AI Desk Assistant](https://github.com/bipin-vishwakarma/Friday)
-`🟢 Active build`
-
-JARVIS-style voice + vision + web UI. **FastAPI**, Whisper STT, Piper TTS, and **MediaPipe** presence & face recognition.
-
-[![Repo](https://img.shields.io/badge/→_Code-0d1117?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/bipin-vishwakarma/Friday)
-![FastAPI · MediaPipe](https://img.shields.io/badge/FastAPI_·_Whisper_·_MediaPipe-0d1117?style=flat-square)
-
-</td>
+<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-electrochemical.svg" width="100%" alt="Electrochemical Sensing Platform — confidential R&D at Neanic Solutions" /></td>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="100%" alt="Friday — AI Desk Assistant" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 💊 &nbsp;[Smart Pill Dispenser](https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser)
-`✅ Fab-ready PCB`
-
-ESP32-S3 automated dispenser — end-to-end **KiCad** across 7 revisions: schematic → ERC/DRC → Gerbers.
-
-[![Repo](https://img.shields.io/badge/→_Code-0d1117?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser)
-![ESP32-S3 · KiCad](https://img.shields.io/badge/ESP32--S3_·_KiCad-0d1117?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🥛 &nbsp;Milk Purity Analyzer
-`✅ Completed — IoT`
-
-Real-time adulteration detection with **custom electrodes** and a mobile monitoring app.
-
-![Completed](https://img.shields.io/badge/Completed-0d1117?style=flat-square&labelColor=0d1117&color=22c55e)
-![Arduino · IoT](https://img.shields.io/badge/Arduino_·_IoT_·_Sensors-0d1117?style=flat-square)
-
-</td>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-pill.svg" width="100%" alt="Smart Pill Dispenser" /></a></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-milk.svg" width="100%" alt="Milk Purity Analyzer" /></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### ⚡ &nbsp;Wireless Energy Transmission
-`✅ Exhibited`
-
-ZVS wireless power via resonant inductive coupling — ~10% efficiency gain. Exhibited at SOHST.
-
-![Exhibited](https://img.shields.io/badge/Exhibited-0d1117?style=flat-square&labelColor=0d1117&color=22c55e)
-![Power Electronics](https://img.shields.io/badge/Power_Electronics-0d1117?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📈 &nbsp;[RvFx — Algorithmic Trading Bot](https://github.com/bipin-vishwakarma/rvfx-trading-bot)
-`🔄 Live testing`
-
-**MQL5** grid/hedge EA for MetaTrader 5 — custom cycle manager, live dashboard, risk management + backtests.
-
-[![Repo](https://img.shields.io/badge/→_Code-0d1117?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/bipin-vishwakarma/rvfx-trading-bot)
-![MQL5 · MetaTrader](https://img.shields.io/badge/MQL5_·_MetaTrader_5-0d1117?style=flat-square)
-
-</td>
+<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-wireless.svg" width="100%" alt="Wireless Energy Transmission" /></td>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="100%" alt="RvFx Algorithmic Trading Bot" /></a></td>
 </tr>
 </table>
+
+<div align="center">
+<sub>🔗 <b>Open the code</b> — <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser">Smart Pill Dispenser</a> · <a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot">RvFx Trading Bot</a></sub>
+</div>
 
 <details>
 <summary><b>⚡ &nbsp;Origin story — Tesla Coils at 14 (NTPC Exhibition, 2020)</b></summary>
