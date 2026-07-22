@@ -26,23 +26,9 @@
 
 Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI** overlap — I design the electrode, route the PCB, flash the firmware, and wrap it in an intelligent interface.
 
-<table>
-<tr><td>
+🎓 &nbsp;**B.Tech Biomedical Engineering** @ UPES Dehradun *(2023–27)* &nbsp; · &nbsp; 🎨 &nbsp;**IEEE Design Head**
 
-- 🎓 &nbsp;**B.Tech Biomedical Engineering** — UPES Dehradun `2023–2027`
-- 🎨 &nbsp;**Design Head** — IEEE Student Chapter, UPES
-- 🔬 &nbsp;**Research Intern** — Neanic Solutions *(electrochemical sensing)*
-- 🏥 &nbsp;**GE Healthcare trained** — Cath Lab · PET-CT · MRI *(Bangalore)*
-
-</td><td>
-
-- 🤖 &nbsp;**Now building** — `Friday`, a multi-agent AI desk assistant
-- 🔒 &nbsp;**Now researching** — a potentiostat for biosensing *(confidential)*
-- 🎯 &nbsp;**Next** — biomedical-AI R&D · building toward global opportunities
-- ⚡ &nbsp;**Fun fact** — built Tesla Coils & a Jacob's Ladder at 14
-
-</td></tr>
-</table>
+> ⚡ &nbsp;**Right now** — building **`Friday`**, a multi-agent AI assistant &nbsp;·&nbsp; researching a **biosensing potentiostat** @ Neanic Solutions &nbsp;·&nbsp; open to **biomedical-AI R&D** roles.
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
@@ -66,14 +52,6 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 <div align="center">
 <sub>🔗 <b>Open the code</b> — <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser">Smart Pill Dispenser</a> · <a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot">RvFx Trading Bot</a></sub>
 </div>
-
-<details>
-<summary><b>⚡ &nbsp;Origin story — Tesla Coils at 14 (NTPC Exhibition, 2020)</b></summary>
-<br />
-
-> Before biomedical engineering, there were **Tesla Coils**. At 14 I designed SSTC & SGTC coils, a Jacob's Ladder, a water bridge, and Lichtenberg wood-burning art — exhibited at **NTPC Vindhyachal**. That's where electronics stopped being a hobby and became the plan.
-
-</details>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
