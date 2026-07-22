@@ -14,7 +14,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8)
 &nbsp;
-[![Location](https://img.shields.io/badge/Dehradun,_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=22d3ee)](#)
+![Location](https://img.shields.io/badge/Dehradun,_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=22d3ee)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=bipin-vishwakarma&style=for-the-badge&color=0e7490&label=VIEWS)](https://github.com/bipin-vishwakarma)
 
@@ -48,23 +48,22 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" /> &nbsp;Featured Work
 
-<table>
-<tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-electrochemical.svg" width="100%" alt="Electrochemical Sensing Platform — confidential R&D at Neanic Solutions" /></td>
-<td width="50%"><a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="100%" alt="Friday — AI Desk Assistant" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-pill.svg" width="100%" alt="Smart Pill Dispenser" /></a></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-milk.svg" width="100%" alt="Milk Purity Analyzer" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-wireless.svg" width="100%" alt="Wireless Energy Transmission" /></td>
-<td width="50%"><a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="100%" alt="RvFx Algorithmic Trading Bot" /></a></td>
-</tr>
-</table>
-
 <div align="center">
+
+<a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="82%" alt="Friday — AI Desk Assistant" /></a>
+
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-electrochemical.svg" width="82%" alt="Electrochemical Sensing Platform — confidential R&D at Neanic Solutions" />
+
+<a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-pill.svg" width="82%" alt="Smart Pill Dispenser" /></a>
+
+<a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="82%" alt="RvFx Algorithmic Trading Bot" /></a>
+
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-milk.svg" width="82%" alt="Milk Purity Analyzer" />
+
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-wireless.svg" width="82%" alt="Wireless Energy Transmission" />
+
 <sub>🔗 <b>Open the code</b> — <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser">Smart Pill Dispenser</a> · <a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot">RvFx Trading Bot</a></sub>
+
 </div>
 
 <details>
@@ -129,13 +128,8 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&hide_border=true&theme=tokyonight&title_color=22d3ee&icon_color=06b6d4&ring_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&hide_border=true&title_color=0e7490&icon_color=0891b2&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-</picture>
-&nbsp;
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=bipin-vishwakarma&hide_border=true&background=ffffff&ring=0e7490&fire=0891b2&currStreakLabel=0e7490&sideLabels=334155&currStreakNum=1f2937&sideNums=1f2937&dates=64748b" alt="Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=bipin-vishwakarma&hide_border=true&background=ffffff&ring=0e7490&fire=0891b2&currStreakLabel=0e7490&sideLabels=334155&currStreakNum=1f2937&sideNums=1f2937&dates=64748b" alt="Contribution streak" />
 </picture>
 
 <br /><br />
