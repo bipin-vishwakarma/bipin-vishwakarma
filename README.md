@@ -15,8 +15,8 @@ Currently, I am:
 
 | Project | What I built | Evidence |
 | --- | --- | --- |
-| [Friday](https://github.com/bipin-vishwakarma/Friday) | A local voice-and-vision desk assistant with a multi-agent core and web interface. | Python, FastAPI, Whisper, Piper, MediaPipe, Next.js, architecture documentation |
 | [Solink](https://github.com/bipin-vishwakarma/solink) | A privacy-focused chat application with ECDH/AES-GCM encryption and a disguised-code interface. | [Live demo](https://solink-omega.vercel.app), CI, tests, security model, deployment and architecture docs |
+| [Friday](https://github.com/bipin-vishwakarma/Friday) | A local voice-and-vision desk assistant with a multi-agent core and web interface. | Python, FastAPI, Whisper, Piper, MediaPipe, Next.js, architecture documentation |
 
 ## Technical focus
 
