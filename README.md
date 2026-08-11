@@ -36,7 +36,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/bipin-vishwakarma/solink"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-solink.svg" width="100%" alt="Solink — end-to-end encrypted stealth chat" /></a></td>
+<td width="50%"><a href="https://solink-omega.vercel.app/"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-solink.svg" width="100%" alt="Open Solink — end-to-end encrypted stealth chat" /></a></td>
 <td width="50%"><a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="100%" alt="Friday — AI Desk Assistant" /></a></td>
 </tr>
 <tr>
