@@ -7,7 +7,6 @@ I'm a **Biomedical Engineering student at UPES (2023–2027)** building at the i
 Currently, I am:
 
 - researching electrochemical sensing and potentiostat design at **Neanic Solutions**;
-- developing embedded-health hardware with **ESP32-S3 and KiCad**;
 - building local AI systems with **Python, FastAPI, computer vision, and speech models**.
 
 [LinkedIn](https://www.linkedin.com/in/bipin-vishwakarma-b407313b8) · [Email](mailto:Bipinvishwakarma145@gmail.com) · Dehradun, India
@@ -16,7 +15,6 @@ Currently, I am:
 
 | Project | What I built | Evidence |
 | --- | --- | --- |
-| [Smart Pill Dispenser](https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser) | An ESP32-S3 medication-dispenser PCB developed through seven KiCad revisions. | Schematic, routed PCB, ERC/DRC cleanup, Gerbers, drill files, and 3D render |
 | [Friday](https://github.com/bipin-vishwakarma/Friday) | A local voice-and-vision desk assistant with a multi-agent core and web interface. | Python, FastAPI, Whisper, Piper, MediaPipe, Next.js, architecture documentation |
 | [Solink](https://github.com/bipin-vishwakarma/solink) | A privacy-focused chat application with ECDH/AES-GCM encryption and a disguised-code interface. | [Live demo](https://solink-omega.vercel.app), CI, tests, security model, deployment and architecture docs |
 
