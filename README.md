@@ -28,7 +28,7 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 🎓 &nbsp;**B.Tech Biomedical Engineering** @ UPES Dehradun *(2023–27)* &nbsp; · &nbsp; 🎨 &nbsp;**IEEE Design Head**
 
-> ⚡ &nbsp;**Right now** — building **`Friday`**, a multi-agent AI assistant &nbsp;·&nbsp; researching a **biosensing potentiostat** @ Neanic Solutions &nbsp;·&nbsp; open to **biomedical-AI R&D** roles.
+> ⚡ &nbsp;**Right now** — shipping **[`Solink`](https://solink-omega.vercel.app)**, an encrypted stealth-chat app &nbsp;·&nbsp; building **[`Friday`](https://github.com/bipin-vishwakarma/Friday)**, a multi-agent AI assistant &nbsp;·&nbsp; researching a **biosensing potentiostat** @ Neanic Solutions.
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
@@ -36,21 +36,21 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <table>
 <tr>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/solink"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-solink.svg" width="100%" alt="Solink — end-to-end encrypted stealth chat" /></a></td>
 <td width="50%"><a href="https://github.com/bipin-vishwakarma/Friday"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-friday.svg" width="100%" alt="Friday — AI Desk Assistant" /></a></td>
+</tr>
+<tr>
 <td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-electrochemical.svg" width="100%" alt="Electrochemical Sensing Platform — confidential R&D at Neanic Solutions" /></td>
-</tr>
-<tr>
 <td width="50%"><a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-pill.svg" width="100%" alt="Smart Pill Dispenser" /></a></td>
-<td width="50%"><a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="100%" alt="RvFx Algorithmic Trading Bot" /></a></td>
 </tr>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-milk.svg" width="100%" alt="Milk Purity Analyzer" /></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-wireless.svg" width="100%" alt="Wireless Energy Transmission" /></td>
+<td width="50%"><a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-rvfx.svg" width="100%" alt="RvFx Algorithmic Trading Bot" /></a></td>
+<td width="50%"><a href="https://bipin-vishwakarma.github.io/CSS-Solar-System-Explorer/"><img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/cover-solar.svg" width="100%" alt="CSS Solar System Explorer — live demo" /></a></td>
 </tr>
 </table>
 
 <div align="center">
-<sub>🔗 <b>Open the code</b> — <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser">Smart Pill Dispenser</a> · <a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot">RvFx Trading Bot</a></sub>
+<sub>🔗 <b>Open the code</b> — <a href="https://github.com/bipin-vishwakarma/solink">Solink</a> · <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/Smart-Pill-Dispenser">Smart Pill Dispenser</a> · <a href="https://github.com/bipin-vishwakarma/rvfx-trading-bot">RvFx</a> · <a href="https://github.com/bipin-vishwakarma/CSS-Solar-System-Explorer">Solar System</a></sub>
 </div>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
