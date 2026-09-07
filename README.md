@@ -55,6 +55,17 @@ Biomedical engineer who lives where **wet-lab sensing, embedded hardware, and AI
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
+## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-path.svg" width="30" /> &nbsp;Open Source Contributions
+
+<div align="left">
+
+**[`neuropsychology/NeuroKit`](https://github.com/neuropsychology/NeuroKit)** &nbsp; *(The Python toolbox for neurophysiological signal processing)*  
+> 🏆 **Merged PR [#1201](https://github.com/neuropsychology/NeuroKit/pull/1201):** Fixed a time-indexing bug in the extraction of respiratory (RSP) phase durations. Normalized epoched data structures to raw sample sequences to correct mathematical duration errors.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
+
 ## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-toolbox.svg" width="30" /> &nbsp;Toolbox
 
 <div align="center">
