@@ -95,25 +95,17 @@ I work where **biomedical engineering, embedded systems, and intelligent softwar
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## Toolbox
+## Capabilities
 
-<div align="center">
+| Area | What I build with |
+| --- | --- |
+| **Product Engineering** | TypeScript, realtime interfaces, payments, authentication, SEO, responsive UX |
+| **AI & Automation** | Python, FastAPI, LangGraph, multimodal vision, LLM workflows, desktop automation |
+| **Voice & Vision** | Whisper, Piper/Kokoro TTS, OpenCV, MediaPipe, QR detection, WebSockets |
+| **Embedded & Android** | ESP32-S3, Arduino, KiCad, PCB prototyping, Android automation, ADB |
+| **Biomedical Systems** | Electrochemical biosensing, potentiostat design, clinical imaging, patient monitoring |
 
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/techstack.svg" width="88%" alt="Tech stack — Hardware & Embedded · AI & Software · Biomedical Systems" />
-
-<details>
-<summary><b>🧩 &nbsp;How I actually use this stack</b> &nbsp;<sub>(click to expand)</sub></summary>
-<br />
-
-**🔧 Hardware** — I take boards end-to-end: schematic → PCB layout → ERC / DRC → Gerber export → SMD assembly *(KiCad · ESP32-S3 · Arduino)*. Enclosures are modeled in SolidWorks and refined for real-world deployment.
-
-**🤖 AI & Software** — Python-first: **FastAPI** services, real-time vision *(MediaPipe · OpenCV)*, ML with **TensorFlow**, quick UIs in **Streamlit**, and multi-agent / LLM workflows.
-
-**🏥 Biomedical** — hands-on with clinical imaging *(MRI · CT · PET-CT · ultrasound)* and patient monitoring; my research focus is **electrochemical biosensing & potentiostat design**.
-
-</details>
-
-</div>
+> I prefer building complete systems: define the interaction, design the architecture, ship the interface, and validate the real-world workflow.
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
@@ -122,15 +114,15 @@ I work where **biomedical engineering, embedded systems, and intelligent softwar
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=ffffff&dates=94a3b8" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=bipin-vishwakarma&hide_border=true&background=ffffff&ring=0e7490&fire=0891b2&currStreakLabel=0e7490&sideLabels=334155&currStreakNum=0f172a&dates=475569" alt="GitHub streak stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0e7490&icon_color=0891b2&text_color=334155&rank_icon=github" alt="GitHub profile statistics" />
 </picture>
 
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=0d1117&color=22d3ee&line=22d3ee&point=a5f3fc&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution+History" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=ffffff&color=0e7490&line=0891b2&point=0e7490&area=true&area_color=a5f3fc&hide_border=true&custom_title=Contribution+History" alt="GitHub activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=ffffff&dates=94a3b8" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=bipin-vishwakarma&hide_border=true&background=ffffff&ring=0e7490&fire=0891b2&currStreakLabel=0e7490&sideLabels=334155&currStreakNum=0f172a&dates=475569" alt="GitHub streak statistics" />
 </picture>
 
 </div>
