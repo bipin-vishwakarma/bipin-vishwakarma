@@ -1,12 +1,12 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  Bipin Vishwakarma · Profile README · hand-crafted, theme-aware ║
+     ║  Bipin Vishwakarma · Profile README · clean, consistent, UI-first ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/header.svg" width="100%" alt="Bipin Vishwakarma — Biomedical Engineer · Embedded Hardware · AI" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=760&height=80&lines=Biomedical+Engineer;Embedded+Systems+Builder;AI+for+Healthcare+Innovation;Hardware+%2B+Software+%2B+Research" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=760&height=80&lines=Biomedical+Engineer;Embedded+Systems+Builder;AI+for+Healthcare+Innovation;Build+Products+that+matter" alt="Typing SVG" /></a>
 
 <br />
 
@@ -22,70 +22,84 @@
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-about.svg" width="30" /> &nbsp;About Me
+## About Me
 
-Biomedical engineer building **intelligent systems across AI, automation, privacy, and hardware** — from biosensing and embedded design to real products and experimental platforms.
+Biomedical engineer building intelligent systems across **AI, automation, privacy, and hardware** — from biosensing and embedded design to real products and experimental platforms.
 
-🎓 &nbsp;**B.Tech Biomedical Engineering** @ UPES Dehradun *(2023–27)* &nbsp; · &nbsp; 🎨 &nbsp;**IEEE Design Head**
+🎓 **B.Tech Biomedical Engineering** @ UPES Dehradun *(2023–27)* &nbsp; · &nbsp; 🎨 **IEEE Design Head**
 
-> ⚡ &nbsp;**Currently shipping** — `text2handwriting.me`, `HyperSolve`, `Solink`, `Friday`, and `Darwin Watcher`: product software, multimodal AI, privacy-first systems, desktop automation, and intelligent Android tooling.
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
-
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-featured.svg" width="30" /> &nbsp;Currently Shipping
-
-### [`text2handwriting.me`](https://text2handwriting.me/)
-A handwriting-generation product with a custom domain, payment support, polished auth + checkout flows, retry-safe Razorpay order creation, SEO guide routes, and product-grade UX polish.  
-**TypeScript · Payments · SEO · Product Engineering**
-
-### [`HyperSolve`](https://github.com/bipin-vishwakarma/HyperSolve)
-A universal autonomous assessment engine with a cyberpunk desktop HUD, multimodal vision solving, step-by-step reasoning, native Windows screen capture, adaptive parsing, and a zero-API-key multi-brain workflow.  
-**Python · Qt · Computer Vision · AI Automation**
-
-### [`Solink`](https://solink-omega.vercel.app/)
-An end-to-end encrypted chat platform with message retries, privacy-aware presence, group reliability, custom waveform voice playback, sticker/GIF search, and improved mobile messaging flow.  
-**TypeScript · Encryption · Realtime Systems · UX Engineering**
-
-### [`Friday`](https://github.com/bipin-vishwakarma/Friday)
-A JARVIS-style desktop assistant with voice, vision, web controls, Whisper STT, Piper/Kokoro TTS, MediaPipe/OpenCV, LLM fallbacks, and ADB-over-WiFi control.  
-**Python · FastAPI · WebSockets · Vision · Voice AI**
-
-### [`Darwin Watcher`](https://github.com/bipin-vishwakarma/darwin-watcher)
-A LangGraph-powered Android automation agent with Telegram command control, self-healing accessibility, touch/gesture dispatch, telemetry, battery alerts, and one-click ADB provisioning.  
-**Java · Android · LangGraph · Automation · Remote Control**
-
-<div align="center">
-<sub>🔗 <b>Selected shipping stack</b> — <a href="https://text2handwriting.me/">text2handwriting.me</a> · <a href="https://github.com/bipin-vishwakarma/HyperSolve">HyperSolve</a> · <a href="https://solink-omega.vercel.app/">Solink</a> · <a href="https://github.com/bipin-vishwakarma/Friday">Friday</a> · <a href="https://github.com/bipin-vishwakarma/darwin-watcher">Darwin Watcher</a></sub>
-</div>
+> ⚡ **Currently shipping** — `text2handwriting.me`, `HyperSolve`, `Solink`, `Friday`, and `Darwin Watcher`: product software, multimodal AI, privacy-first systems, desktop automation, and intelligent Android tooling.
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-path.svg" width="30" /> &nbsp;Selected Shipped Features
+## Currently Shipping
 
-- **`text2handwriting.me`** — added payment support and refund policy, polished studio auth + checkout flows, and improved retry handling for Razorpay order creation.
-- **`HyperSolve`** — shipped v2.0.0 with a native Windows Dynamic Island HUD, multimodal Vision AI solver, desktop capture without extra permissions, and step-by-step solver mode.
-- **`Solink`** — shipped encrypted retry queues, privacy-aware presence, improved mobile keyboard reliability, sticker/GIF search, and stronger group-chat stability.
-- **`Friday`** — shipped QR pairing UI, vision QR detection, browser-frame reliability fixes, architecture docs, and a cleaner developer setup via `.env.example` and MIT licensing.
-- **`darwin-watcher`** — shipped a two-way Telegram control hub with remote touch control, telemetry, self-healing accessibility, siren alert actions, and wireless/USB ADB provisioning.
+### text2handwriting.me · Live Product
+
+Handwriting generation with payment support, polished authentication and checkout flows, Razorpay retry handling, practical SEO guides, and product-grade UX polish.
+
+`TypeScript` · `Payments` · `SEO` · [Live product](https://text2handwriting.me/) · [Source](https://github.com/bipin-vishwakarma/text2handwriting.me)
+
+### HyperSolve · AI Assessment Engine
+
+A multimodal assessment engine with native Windows desktop capture, Dynamic Island-style HUD, adaptive parsing, step-by-step solving, and a zero-API-key multi-brain workflow.
+
+`Python` · `Qt` · `Computer Vision` · `AI Automation` · [Source](https://github.com/bipin-vishwakarma/HyperSolve)
+
+### Solink · Encrypted Communication
+
+End-to-end encrypted chat with message retry queues, privacy-aware presence, group-chat reliability, voice waveform playback, sticker/GIF search, and mobile messaging UX improvements.
+
+`TypeScript` · `Encryption` · `Realtime Systems` · [Live app](https://solink-omega.vercel.app/) · [Source](https://github.com/bipin-vishwakarma/solink)
+
+### Friday · Desktop AI Assistant
+
+A JARVIS-style assistant combining voice, vision, WebSockets, Whisper, Piper/Kokoro TTS, MediaPipe, OpenCV, LLM fallbacks, and ADB-over-WiFi control.
+
+`Python` · `FastAPI` · `Voice AI` · `Computer Vision` · [Source](https://github.com/bipin-vishwakarma/Friday)
+
+### Darwin Watcher · Android Automation
+
+A LangGraph-powered Android automation system with Telegram control, self-healing accessibility, remote gestures, device telemetry, alerts, and wireless/USB ADB provisioning.
+
+`Java` · `Android` · `LangGraph` · `ADB` · [Source](https://github.com/bipin-vishwakarma/darwin-watcher)
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-path.svg" width="30" /> &nbsp;Open Source Contributions
+## Selected Shipped Features
 
-<div align="left">
+- **text2handwriting.me** — added payment support and refund policy, polished studio auth + checkout flows, and improved retry handling for Razorpay order creation.
+- **HyperSolve** — shipped v2.0.0 with a native Windows HUD, multimodal Vision AI solver, desktop capture without extra permissions, and step-by-step solver mode.
+- **Solink** — shipped encrypted retry queues, privacy-aware presence, improved mobile keyboard reliability, sticker/GIF search, and stronger group-chat stability.
+- **Friday** — shipped QR pairing UI, vision QR detection, browser-frame reliability fixes, architecture docs, and a cleaner developer setup via `.env.example` and MIT licensing.
+- **Darwin Watcher** — shipped a two-way Telegram control hub with remote touch control, telemetry, self-healing accessibility, siren alert actions, and wireless/USB ADB provisioning.
 
-**[`neuropsychology/NeuroKit`](https://github.com/neuropsychology/NeuroKit)** &nbsp; *(The Python toolbox for neurophysiological signal processing)*  
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
+
+## Research & Hardware
+
+I work where **biomedical engineering, embedded systems, and intelligent software** intersect — especially in sensing, device design, automation, and applied AI for healthcare.
+
+- **Electrochemical biosensing & potentiostat design**
+- **PCB, firmware, and embedded prototyping**
+- **Clinical imaging workflows** *(MRI · CT · PET-CT · ultrasound)*
+- **Human-centered automation and AI-assisted product prototyping**
+
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
+
+## Open Source Contributions
+
+**[`neuropsychology/NeuroKit`](https://github.com/neuropsychology/NeuroKit)** &nbsp; *(The Python toolbox for neurophysiological signal processing)*
+
 > 🏆 **Merged PR [#1201](https://github.com/neuropsychology/NeuroKit/pull/1201):** Fixed a time-indexing bug in the extraction of respiratory (RSP) phase durations. Normalized epoched data structures for more consistent downstream signal-analysis workflows.
 
-</div>
-
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-toolbox.svg" width="30" /> &nbsp;Toolbox
+## Toolbox
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/techstack.svg" width="90%" alt="Tech stack — Hardware & Embedded · AI & Software · Biomedical Systems" />
+<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/techstack.svg" width="88%" alt="Tech stack — Hardware & Embedded · AI & Software · Biomedical Systems" />
 
 <details>
 <summary><b>🧩 &nbsp;How I actually use this stack</b> &nbsp;<sub>(click to expand)</sub></summary>
@@ -103,25 +117,7 @@ A LangGraph-powered Android automation agent with Telegram command control, self
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-path.svg" width="30" /> &nbsp;The Path So Far
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/timeline.svg" width="92%" alt="Timeline — 2020 Tesla Coils → 2023 UPES → 2024 IEEE Design Head → 2025 research + product builds" />
-
-</div>
-
-### <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-certs.svg" width="24" /> &nbsp;Certifications & Workshops
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/certs.svg" width="92%" alt="Certifications — GE Healthcare (Cath Lab · PET-CT · MRI hands-on training) — healthcare imaging and biomedical device workflows" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
-
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-numbers.svg" width="30" /> &nbsp;By the Numbers
+## Activity
 
 <div align="center">
 
@@ -137,18 +133,11 @@ A LangGraph-powered Android automation agent with Telegram command control, self
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin-vishwakarma&bg_color=ffffff&color=0e7490&line=0891b2&point=0e7490&area=true&area_color=a5f3fc&hide_border=true&custom_title=Contribution+History" alt="GitHub activity graph" />
 </picture>
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/output/snake.svg" alt="Contribution snake eating my commits" width="96%" />
-</picture>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/icon-connect.svg" width="30" /> &nbsp;Let's Connect
+## Connect
 
 <div align="center">
 
