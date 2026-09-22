@@ -109,23 +109,14 @@ I work where **biomedical engineering, embedded systems, and intelligent softwar
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
-## Activity
+## Current Focus
 
-<div align="center">
+I’m building product systems where **healthcare, embedded hardware, AI, and real user workflows** meet.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bipin-vishwakarma&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0e7490&icon_color=0891b2&text_color=334155&rank_icon=github" alt="GitHub profile statistics" />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=bipin-vishwakarma&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=ffffff&dates=94a3b8" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=bipin-vishwakarma&hide_border=true&background=ffffff&ring=0e7490&fire=0891b2&currStreakLabel=0e7490&sideLabels=334155&currStreakNum=0f172a&dates=475569" alt="GitHub streak statistics" />
-</picture>
-
-</div>
+- shipping practical software products
+- validating physical and digital prototypes
+- connecting AI with real-world clinical and device workflows
+- turning research ideas into working systems
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
