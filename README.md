@@ -24,7 +24,7 @@
 
 ## About Me
 
-Biomedical engineer building intelligent systems across **AI, automation, privacy, and hardware** — from biosensing and embedded design to real products and experimental platforms.
+I study biomedical engineering at UPES. I design embedded hardware for electrochemical sensing, build software products, and contribute to open-source physiological signal processing.
 
 🎓 **B.Tech Biomedical Engineering** @ UPES Dehradun *(2023–27)* &nbsp; · &nbsp; 🎨 **IEEE Design Head**
 
@@ -91,7 +91,10 @@ I work where **biomedical engineering, embedded systems, and intelligent softwar
 
 **[`neuropsychology/NeuroKit`](https://github.com/neuropsychology/NeuroKit)** &nbsp; *(The Python toolbox for neurophysiological signal processing)*
 
-> 🏆 **Merged PR [#1201](https://github.com/neuropsychology/NeuroKit/pull/1201):** Fixed a time-indexing bug in the extraction of respiratory (RSP) phase durations. Normalized epoched data structures for more consistent downstream signal-analysis workflows.
+- [#1201](https://github.com/neuropsychology/NeuroKit/pull/1201) — Fixed respiratory phase durations for time-indexed epochs.
+- [#1244](https://github.com/neuropsychology/NeuroKit/pull/1244) — Handled missing peaks and troughs in short respiratory recordings.
+- [#1246](https://github.com/neuropsychology/NeuroKit/pull/1246) — Clarified how event-related rate changes and cardiac phase features are reported.
+- [#1247](https://github.com/neuropsychology/NeuroKit/pull/1247) — Fixed misleading errors when the optional MNE dependency is missing.
 
 <img src="https://raw.githubusercontent.com/bipin-vishwakarma/bipin-vishwakarma/main/assets/divider.svg" width="100%" alt="" />
 
